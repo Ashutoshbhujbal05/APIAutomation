@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-15T23:35:10 IST" name="Default suite" finished-at="2024-10-15T23:35:17 IST" duration-ms="6257">
+    <groups>
+    </groups>
+    <test started-at="2024-10-15T23:35:10 IST" name="Default test" finished-at="2024-10-15T23:35:17 IST" duration-ms="6257">
+      <class name="complexDataSerializationDeserialization.PostRequest">
+        <test-method signature="post()[pri:0, instance:complexDataSerializationDeserialization.PostRequest@33b1c5c5]" started-at="2024-10-15T23:35:10 IST" name="post" finished-at="2024-10-15T23:35:17 IST" duration-ms="6175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- complexDataSerializationDeserialization.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
